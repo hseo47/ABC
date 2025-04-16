@@ -1,4 +1,4 @@
-# hydrosoftened-chitosan-bacterial-adhesion
+# bacterial-adhesion-kMC
 
 This repository contains MATLAB code and Scanned Electron Microscopy (SEM) image files used in the study:  
 **Enhancing Bacteria Adhesion with Hydro-Softened Chitosan Film"**  
