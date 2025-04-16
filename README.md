@@ -2,7 +2,7 @@
 
 This repository contains MATLAB code and Scanned Electron Microscopy (SEM) image files used in the study:  
 **Enhancing Bacteria Adhesion with Hydro-Softened Chitosan Film**  
-The code simulates bacterial adhesion using a kinetic Monte Carlo framework.
+The code simulates bacterial adhesion using a kinetic Monte Carlo framework
 
 ## Contents
 
@@ -16,7 +16,7 @@ The code simulates bacterial adhesion using a kinetic Monte Carlo framework.
 - MATLAB R2023 or later
 - Image Processing Toolbox
 
-Tested with MATLAB_R2024b. No additional external libraries are needed
+Tested with MATLAB_R2024b; No additional external libraries are needed
 
 ## Usage 
 
@@ -26,4 +26,4 @@ Tested with MATLAB_R2024b. No additional external libraries are needed
 
 ## Code Availability Statement 
 
-The repository will be made public upon publication.
+The repository will be made public upon publication
