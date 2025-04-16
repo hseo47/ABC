@@ -8,7 +8,8 @@ The code simulates bacterial adhesion using a kinetic Monte Carlo framework.
 
 - 'kMCsimulation.m' – Runs the stochastic kMC simulation loop (JKR-Griffith adhesion threshold, xDLVO)
 - 'morphImgPro.m' – Runs the morphological classification of SEM images post-incubation
-- 'data/' – Example dataset and simulation outputs
+- 'Data' – Morphological classification outputs
+- Simulated binary grid (kMC) and SEM images
 
 ## Requirements
 
@@ -18,6 +19,10 @@ The code simulates bacterial adhesion using a kinetic Monte Carlo framework.
 Tested with MATLAB_R2024b. No additional external libraries are needed
 
 ## Usage 
+
+- Run MATLAB
+- Run kMCsimulation.m (Adjust parameters if necessary)
+- Run morImgPro.m (Change input file name)
 
 ## Code Availability Statement 
 
