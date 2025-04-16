@@ -2,7 +2,7 @@
 
 This repository contains MATLAB code and Scanned Electron Microscopy (SEM) image files used in the study:  
 **Enhancing Bacteria Adhesion with Hydro-Softened Chitosan Film"**  
-The code simulates bacterial adhesion using a Kinetic Monte Carlo framework incorporating extended DLVO theory and Griffith–JKR contact mechanics.
+The code simulates bacterial adhesion using a kinetic Monte Carlo framework.
 
 ## Contents
 
