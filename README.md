@@ -6,9 +6,9 @@ The code simulates bacterial adhesion using a Kinetic Monte Carlo framework inco
 
 ## Contents
 
-'kMCsimulation.m' – Runs the stochastic kMC simulation loop (JKR-Griffith adhesion threshold, xDLVO)
-'morphImgPro.m' – Runs the morphological classification of SEM images post-incubation
-'data/' – Example dataset and simulation outputs
+- 'kMCsimulation.m' – Runs the stochastic kMC simulation loop (JKR-Griffith adhesion threshold, xDLVO)
+- 'morphImgPro.m' – Runs the morphological classification of SEM images post-incubation
+- 'data/' – Example dataset and simulation outputs
 
 ## Requirements
 
