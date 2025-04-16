@@ -14,7 +14,7 @@ The code simulates bacterial adhesion using a kinetic Monte Carlo framework
 
 ## Requirements
 
-- MATLAB R2023 or later
+- MATLAB R2023 or later (Preferably)
 - Image Processing Toolbox
 
 Tested with MATLAB_R2024b; No additional external libraries are needed
