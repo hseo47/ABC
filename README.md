@@ -1,4 +1,4 @@
-# ABC_Adhesion_of_Bacteria_to_Chitosan
+# ABC-Adhesion-of-Bacteria-to-Chitosan
 
 This repository contains MATLAB code and Scanned Electron Microscopy (SEM) image files used in the study:  
 **Enhancing Bacterial Adhesion with Hydro-Softened Chitosan Film**  
