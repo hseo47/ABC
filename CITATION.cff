@@ -1,0 +1,31 @@
+cff-version: 1.1.0
+message: "If you use this code, please cite the following:"
+title: "ABC-Adhesion-of-Bacteria-to-Chitosan"
+version: 1.1
+doi: 10.5281/zenodo.15323528
+date-released: 2025-05-02
+authors:
+  - family-names: Seo
+    given-names: Hojin
+    affiliation: Georgia Institute of Technology
+  - family-names: Yu
+    given-names: Xiaoqing
+    affiliation: Georgia Institute of Technology
+  - family-names: Tripathi
+    given-names: Anuja
+    affiliation: Georgia Institute of Technology
+  - family-names: Higdon
+    given-names: Emily
+    affiliation: Georgia Institute of Technology
+  - family-names: Dulla
+    given-names: Yash
+    affiliation: Georgia Institute of Technology
+  - family-names: LeClair
+    given-names: Simon
+    affiliation: Georgia Institute of Technology
+  - family-names: Champion
+    given-names: Julie
+    affiliation: Georgia Institute of Technology
+  - family-names: Harris
+    given-names: Tequila A. L.
+    affiliation: Georgia Institute of Technology
