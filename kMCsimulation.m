@@ -4,7 +4,7 @@ function runkMCsimulation()
     %   - Bacteria: E_bacteria = 100 MPa, nu_bacteria = 0.3.
     % 
     % Experimental data:
-    %   - Rigid substrate: E_substrate = 91 MPa.
+    %   - Rigid substrate: E_substrate = 84.5 MPa.
     %   - Hydro-softened substrate:  E_substrate = 1.8 MPa.
     % 
     % The composite effective moduli:
@@ -39,7 +39,7 @@ function runkMCsimulation()
     
     % Substrate properties:
     % Rigid substrate:
-    E_substrate_rigid = 91e6;   % 91 MPa
+    E_substrate_rigid = 84.5e6;   % 84.5 MPa
     % Hydro-softened substrate:
     E_substrate_soft = 1.8e6;   % 1.8 MPa
     nu_substrate = 0.3;         % assumed same for both
